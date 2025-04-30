@@ -231,3 +231,5 @@ smartadserver.com, 4610, reseller, 060d053dcf45cbf3
 smartadserver.com, 3172, reseller, 060d053dcf45cbf3
 smartadserver.com, 4839, reseller, 060d053dcf45cbf3
 smartadserver.com, 4457, reseller, 060d053dcf45cbf3
+smartadserver.com, 4190, RESELLER, 060d053dcf45cbf3
+app-stock.com, 384491, RESELLER
